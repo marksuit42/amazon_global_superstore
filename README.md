@@ -65,7 +65,8 @@ Page 1 - Overview
 
 
 Page 2 - Sales Analysis
-<img width="1869" height="643" alt="image" src="https://github.com/user-attachments/assets/f3b3f054-2619-4d58-80a9-203fad3f1319" />
+<img width="1890" height="649" alt="image" src="https://github.com/user-attachments/assets/7dfd59c9-f3b2-496a-9673-c0346c52d33e" />
+
 
 
 Page 3 - Return Analysis
