@@ -58,3 +58,16 @@ Theme	Gradient Business UI design
 ✔ Technology products deliver high revenue
 ✔ Some regions show high returns, impacting profit
 ✔ Return Rate: ~2.10% across all orders
+
+📷 Dashboard Preview
+Page 1 - Overview
+<img width="1864" height="649" alt="image" src="https://github.com/user-attachments/assets/afa2c5b7-4659-412e-bb12-a621d4d24876" />
+
+
+Page 2 - Sales Analysis
+<img width="1869" height="643" alt="image" src="https://github.com/user-attachments/assets/f3b3f054-2619-4d58-80a9-203fad3f1319" />
+
+
+Page 3 - Return Analysis
+<img width="1877" height="632" alt="image" src="https://github.com/user-attachments/assets/b455e55d-a1cd-4676-81ba-76bccbe32365" />
+
